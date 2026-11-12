@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aksha-Angel
 - 👀 I’m interested in cloud computing, ai
 - 🌱 I’m currently learning AWS cloud computing
-- 📫 How to reach me akshaangel2004@gmail.com
+- 📫 How to reach me akshaaofficial@gmail.com
 - 😄 Pronouns: tech/ie
 - ⚡ Fun fact: there's no fun in my life lmao
 
